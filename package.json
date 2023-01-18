@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "google-pagerank": "^0.0.4"
+  }
+}
